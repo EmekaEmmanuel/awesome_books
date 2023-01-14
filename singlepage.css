@@ -126,11 +126,7 @@ tr td:nth-child(2) {
   width: 50px;
   height: 40px;
   border-radius: 4px;
-}
-
-/* .tab_content_3 {
-  display: none;
-} */
+} 
 
 .tab_content_3 {
   margin: 50px 0;

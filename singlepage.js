@@ -40,7 +40,7 @@ class AwesomeLibrary {
     }
 
     displayBooks() {
-        if (!this.storedBooks || !this.storedBooks.length === 0 || this.storedBooks === []) {
+        if (!this.storedBooks) {
             empty.innerHTML = 'No books in the library';
         } else {
             empty.style.display = 'none';
