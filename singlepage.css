@@ -114,6 +114,7 @@ tr td:nth-child(2) {
   margin: -10px 0;
   padding-left: 4px;
   border-radius: 4px;
+  outline: none;
 }
 
 .form_action {
